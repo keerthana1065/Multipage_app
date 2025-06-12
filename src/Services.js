@@ -533,7 +533,7 @@ function Services() {
             © Copyright <strong><span>MyWebsite</span></strong>. All Rights Reserved
           </div>
           <div class="credits">
-             <a href="https://bootstrapmade.com/">Keerthana</a>
+            <a href="https://github.com/keerthana1065/Multipage_app">View Source on github</a>
           </div>
         </div>
 
